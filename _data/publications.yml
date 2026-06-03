@@ -4,11 +4,11 @@ main:
     authors: Chi-Sheng Lo
     journal: Finance Research Letters
     link: https://www.sciencedirect.com/science/article/pii/S154461232502687X
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/FRL icon.png
    
 
   - title: "Can NASDAQ-100 derivatives ETF portfolio beat QQQ"
     authors: Chi-Sheng Lo
     journal: Economics Bulletin
     link: https://ideas.repec.org/a/ebl/ecbull/eb-25-00515.html
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/EB icon.png
