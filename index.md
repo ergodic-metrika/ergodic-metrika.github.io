@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
+I am going to attend NTU PhD Finance
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Application of computer vision on financial market
+- **Machine Learning:** Application of ML on portfolio management and ecoometrics
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2026]** My paper about Taiwan 50 sparse portflio published online in Finance Research Letters
+- **[Dec. 2025]** My paper about Nasdaq derivatives ETF allocation published online in Economics Bulletin
+
 
 {% include_relative _includes/publications.md %}
 
