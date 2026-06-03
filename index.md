@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am going to attend NTU PhD Finance
+I am going to attend the National Taiwan University (NTU) PhD Finance program
 ## Research Interests
 
 - **Computer Vision:** Application of computer vision on financial market
